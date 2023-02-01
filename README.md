@@ -10,3 +10,5 @@ The first player to score 30 or more points wins.
 
 Live Website Link: 
 https://dice-game-eo.netlify.app/
+
+NB: Site is apparently not responsive
